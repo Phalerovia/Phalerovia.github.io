@@ -12,8 +12,6 @@ Phalerovia is a small team of people, interested in Technology, Cyber Security, 
 
 <style>
 
-/*- - - - - - C O N T A C T - C A R D S - - - - - */
-
 .card{
 	width: 200px; /* ⬅ Size - Small (width: 200px), Medium (width: 225px), Large (width: 250px) */
 	overflow: hidden;
@@ -88,7 +86,7 @@ Phalerovia is a small team of people, interested in Technology, Cyber Security, 
       <div class="avatar"><img src="https://avatars.githubusercontent.com/u/71733474"/></div>
    </div>
 	<h3>Laggstar</h3>
-   <a href="mailto:admin@drmoscovium.net">Email</a>
+   <a href="mailto:laggstar@drmoscovium.net">Email</a>
 	<ul class="card-ul">
       <a href="https://www.github.com/Laggstar1" target="_blank"><i class="fa-brands fa-github"></i></a>
 	</ul>
@@ -99,50 +97,42 @@ Phalerovia is a small team of people, interested in Technology, Cyber Security, 
 <div style="display:flex;justify-content:space-evenly">
 <div class="card">
    <div class="card-banner" style="background-color:#bf616a">
-      <div class="avatar"><img src="https://avatars.githubusercontent.com/u/62040270"/></div>
+      <div class="avatar"><img src="https://images-ext-2.discordapp.net/external/KSkXDBvIXsxfKpzFvjvYR2cYrz9LDTDzQqjrz2vYhxc/https/raw.githubusercontent.com/s-sanskar/CODING-CHALLENGES/main/21_Mandelbrot_Set/Images/download%2520%287%29.png"/></div>
    </div>
 	<h3>Hypnogod</h3>
-   <a href="mailto:admin@drmoscovium.net">Email</a>
+   <a href="mailto:sans@drmoscovium.net">Email</a>
 	<ul class="card-ul">
       <a href="https://www.github.com/s-sanskar" target="_blank"><i class="fa-brands fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/sanskar-pokharel/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
       <a href="https://sansportfoliopg.web.app" target="_blank"><_</a>
 	</ul>
 </div>
 
 <div class="card">
    <div class="card-banner" style="background-color:#bf616a">
-      <div class="avatar"><img src="https://avatars.githubusercontent.com/u/79388224"/></div>
+      <div class="avatar"><img src="https://media.discordapp.net/attachments/978463799298375682/978487524748062720/unknown.png"/></div>
    </div>
 	<h3>Danimals</h3>
-   <a href="mailto:admin@drmoscovium.net">Email</a>
+   <a href="mailto:djagga@drmoscovium.net">Email</a>
 	<ul class="card-ul">
-      <a href="https://www.github.com/GryphNdor" target="_blank"><i class="fa-brands fa-github"></i></a>
-      <a href="https://gryphndor.github.io/" target="_blank"><_</a>
+      <a href="https://www.github.com/djjagga" target="_blank"><i class="fa-brands fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/daniel-jagga/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
 	</ul>
 </div>
-
 </div>
 
 
 # Not Active
-
-
 <div style="display:flex;justify-content:space-evenly">
 <div class="card">
    <div class="card-banner" style="background-color:#bf616a">
       <div class="avatar"><img src="https://avatars.githubusercontent.com/u/55202082"/></div>
    </div>
 	<h3>GryphNdor</h3>
-   <a href="mailto:admin@drmoscovium.net">Email</a>
+   <a href="mailto:gryphndor@drmoscovium.net">Email</a>
 	<ul class="card-ul">
       <a href="https://www.github.com/GryphNdor" target="_blank"><i class="fa-brands fa-github"></i></a>
       <a href="https://gryphndor.github.io/" target="_blank"><_</a>
 	</ul>
 </div>
-
-
 </div>
-
-
-
-
