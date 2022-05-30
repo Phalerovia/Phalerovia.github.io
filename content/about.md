@@ -7,6 +7,7 @@ draft: false
 # Phalerovia
 
 Phalerovia is a small team of people, interested in Technology, Cyber Security, Programming and more.
+<iframe src="https://discord.com/widget?id=930653648705454120&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 # Team 
 
@@ -137,4 +138,3 @@ Phalerovia is a small team of people, interested in Technology, Cyber Security, 
 </div>
 </div>
 
-<iframe src="https://discord.com/widget?id=930653648705454120&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
